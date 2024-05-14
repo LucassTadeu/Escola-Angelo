@@ -11,4 +11,4 @@ OK - Professor Parisotto
 8 ainda no terminal digite: git config --global user.email <digite aqui seu email no GITHUB
 9 Tecle Enter
 
-.
+. , .

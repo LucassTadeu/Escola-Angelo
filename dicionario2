@@ -1,0 +1,11 @@
+país = {'nome':'Santa Catarina', 'Capital':'Florianópolis'}
+
+print(país)
+
+print(país['Capital'])
+
+# país.clear()
+
+# Método get()
+print(país.get("nome", "Não existe"))
+print(país.get("qualquer", "Não existe"))
